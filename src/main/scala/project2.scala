@@ -262,7 +262,7 @@ object project2 {
 //                else{
 //                  print("not eligible for anything")
 //                }
-    // 24 and 27 and 28 and 29 are Repeat So skipping
+    // 24 and 27 and 28 and 29  and 30 are Repeat So skipping
 30
 //    print("Enter the age")
 //    val age=scala.io.StdIn.readInt()
